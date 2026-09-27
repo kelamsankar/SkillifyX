@@ -127,6 +127,18 @@ PORT=5000
 SkillifyX uses Power BI dashboards to visualize job, skill, company, student, and startup-related data.
 The platform integrates these dashboards into the web interface for interactive data exploration.
 
+## Company analysis
+<img width="1216" height="566" alt="company analysis" src="https://github.com/user-attachments/assets/9307faa8-95f0-46ca-8e7f-5d1830142d08" />
+
+## Student analysis
+<img width="1204" height="522" alt="student analysis" src="https://github.com/user-attachments/assets/84cf98db-708a-4f6a-8452-13d621711908" />
+
+## Skill gap analyser
+<img width="1198" height="514" alt="skill gap analyser" src="https://github.com/user-attachments/assets/5e506ad7-74a7-4a2e-82a8-6ef40efc2be0" />
+
+## startup hubs and location insights
+<img width="1206" height="520" alt="startup hubs and location insights" src="https://github.com/user-attachments/assets/412f1e2a-32f8-4c56-9744-73e1871cb7bc" />
+
 ## 🔮 Future Enhancements
 - AI-powered personalized skill recommendations
 - Resume analyzer
