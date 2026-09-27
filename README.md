@@ -117,9 +117,11 @@ npm start
 ## 🔒 Environment Variables
 Do not upload your .env file to GitHub.
 Example:
+```text
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_jwt_secret
 PORT=5000
+```
 
 ## 📊 Dashboards
 SkillifyX uses Power BI dashboards to visualize job, skill, company, student, and startup-related data.
