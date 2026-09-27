@@ -2,6 +2,12 @@
 
 SkillifyX is a web-based platform designed to help students and aspiring professionals analyze their skills, explore career opportunities, and understand startup trends through data-driven insights and interactive dashboards.
 
+## 🚀 Live Demo
+
+[![Open SkillifyX](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://rjpdqgfwywwwcc2deczbdi.streamlit.app/)
+
+👉 **[Open SkillifyX Live App](https://rjpdqgfwywwwcc2deczbdi.streamlit.app/)**
+
 ## 🎯 Features
 
 - 🔐 User Registration and Login
